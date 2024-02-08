@@ -1,4 +1,4 @@
-# AI Project HighD
+# AI Project
 This Project to handle highD data files using Python.
 
 ## Dataset
