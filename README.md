@@ -53,3 +53,6 @@ Q-Learning sample-based Q-value iteration:
 
 
 - Using Python, read all the files that are labeled as "Taxi-v3" as one dataframe.
+
+![1_ebkN3dLTi8T4iODjnklSDA](https://github.com/YazanMoqanasaa/Taxi-v3/assets/150680289/68429dd1-7802-446b-84d5-1f89a5180c85)
+
